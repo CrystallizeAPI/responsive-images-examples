@@ -1,0 +1,24 @@
+{
+  "name": "react-newyork-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@crystallize/react-image": "^7.1.0",
+    "lottie-web": "^5.5.7",
+    "next": "^9.0.4",
+    "react": "^16.9.0",
+    "react-bodymovin": "^2.0.0",
+    "react-dom": "^16.9.0",
+    "styled-components": "^4.3.2"
+  }
+}
