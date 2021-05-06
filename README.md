@@ -1,4 +1,4 @@
-# Proper Image handling examples 
+# Image handling examples for performace using srcset and sizes 
 
 A running example with different examples on how to properly add images to your website.
 Check our livestream to learn more: https://www.youtube.com/watch?v=XeTjadCODlw 
